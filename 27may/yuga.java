@@ -1,7 +1,6 @@
 public class yuga
 {
-public static void main(String[]args){
+ static public void main(String[] yuga){
 System.out.println("Hello");
 }
-
 }
